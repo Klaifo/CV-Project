@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+outputs/
+*.mp4
+*.mov
+*.MOV
+*.task
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
